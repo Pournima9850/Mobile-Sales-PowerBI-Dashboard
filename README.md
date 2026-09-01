@@ -51,7 +51,7 @@ Users can filter the dashboard using:
 - Brand
 - Day Name
 ## 📷 Dashboard Preview
-![Mobile Sales Dashboard](Dashboard/Mobile_Sales_Dashboard.png)
+![Mobile Sales Dashboard](./Mobile_Sales_Dashboard.png)
 ## 📁 Project Structure
 ```text
 Mobile-Sales-PowerBI-Dashboard/
